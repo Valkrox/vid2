@@ -25,16 +25,6 @@ Ce projet ne doit **pas être utilisé en production**, il est conservé pour **
 
 ---
 
-## 📁 Structure du projet
-
-| Fichier | Rôle |
-|--------|------|
-| `MainForm.cs` | Interface principale |
-| `Program.cs` | Point d’entrée |
-| `README.md` | Présent fichier d'information |
-
----
-
 ## 💬 Communauté
 
 Envie de parler de vieux projets ou de déterrage de prototypes ?
